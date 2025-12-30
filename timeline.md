@@ -20,4 +20,12 @@ This document presents a chronological record of key innovations in the developm
 
 ## Timeline Entries
 
-*(Entries will be added in chronological order below this line.)*
+### c. 1133 - Durham Cathedral, Durham
+
+**Innovation:** First systematic use of ribbed vaults over a nave (sexpartite six‑part rib vault) in England, marking a decisive transition from Romanesque to Gothic building techniques.
+
+**Technological Advancement:** Use of pointed transverse arches and diagonal stone ribs to create a rigid skeleton that carries the weight of the infill (webbing) and concentrates loads onto reinforced piers. The ribs act as permanent centering during construction and reduce the need for massive wall support.
+
+**Challenge & Solution:** Builders needed to support heavy stone vaults over a wide nave while minimizing lateral thrust on the walls. The ribbed vault directed weight vertically downward, allowing for taller, more stable construction and the eventual introduction of larger clerestory windows. This innovation solved the problem of how to achieve greater height and light without compromising structural integrity.
+
+**Source(s):** Otto von Simson, *The Gothic Cathedral* (1956); John Harvey, *English Gothic Architecture* (1978).
